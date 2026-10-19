@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -148,7 +147,7 @@ button:active {
 <section class="pantalla activa" id="inicio">
     <div class="corazon">💖</div>
     <p>Hay alguien que hace mis días más bonitos...</p>
-    <h1>Liz Maribel ❤️</h1>
+    <h1>Liz Maribel 💗</h1>
     <p>
         Preparé algo especial para ti.
         Quiero decirte algo que llevo guardado en mi corazón.
@@ -166,7 +165,7 @@ button:active {
         Eres una persona muy especial para mí.
         Me haces sonreír y quería tener el valor de preguntarte...
     </p>
-    <h2>¿Quieres ser mi novia? ❤️</h2>
+    <h2>¿Quieres ser mi novia? 💗</h2>
     <div class="botones">
         <button class="boton-si" onclick="aceptar()">
             ¡Sí! 💖
