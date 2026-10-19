@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Para Liz Maribel ❤️</title>
+<title>Para Liz Maribel💗</title>
 
 <style>
 * {
@@ -186,7 +186,7 @@ button:active {
 
 <!-- PANTALLA FINAL -->
 <section class="pantalla" id="final">
-    <div class="corazon">🥹❤️</div>
+    <div class="corazon">🥹💗</div>
     <h1>¡Gracias, Liz Maribel! 💖</h1>
     <p>
         No sabes lo feliz que me hace que hayas llegado hasta aquí.
@@ -223,7 +223,7 @@ button:active {
         </p>
         <p class="firma">
             Con mucho cariño,<br>
-            Alguien que te quiere mucho. 💗
+            Alguien que te quiere mucho(Osea yo jeje). 💗
         </p>
     </div>
 </section>
